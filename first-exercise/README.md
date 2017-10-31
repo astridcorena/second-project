@@ -25,5 +25,4 @@ Pseudocódigo
 17. Si no(convertir otros valores ascii en otros carácteres).
 18. Retornar el text.
 
-![Esta es la imagen del diagrama](cipher.jp)
-![Esta es la imagen del diagrama](decipher.jpg))
+![Esta es la imagen del diagrama](ciphercesar.jpeg)
